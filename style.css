@@ -46,7 +46,7 @@
 }
 
 .flag {
-    height: 15px;
+    height: 15px !important;
 }
 
 /*---Slider---*/
